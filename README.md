@@ -171,12 +171,11 @@ cp .env.example .env
 
 > Seção atualizada ao final de cada ciclo. Registra decisões reais, erros cometidos e como foram resolvidos.
 
-- **Ciclo 1**: *a preencher após conclusão*
-
 ---
 
 ## Autor
 
-**[Seu Nome]**  
+**André Gomes Vieira de Souza**  
 Data Engineer | 10+ anos de experiência em dados  
-[LinkedIn](https://linkedin.com/in/andregomesvs) · [GitHub](https://github.com/andregomesvs)
+[LinkedIn](https://linkedin.com/in/andregomesvs) 
+[GitHub](https://github.com/andregomesvs)
